@@ -1,0 +1,8 @@
+DEFFIE HELLMAN protocol  (el gamal algo)
+
+widely used these days for  exchanging keys...................
+
+
+Untitled1.cpp is the main file where encryption and decryption schemes are given
+
+moreover  for ease of getting primitive numbers primitive finder's function is made here

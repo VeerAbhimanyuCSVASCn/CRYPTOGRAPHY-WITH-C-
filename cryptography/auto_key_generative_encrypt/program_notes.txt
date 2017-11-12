@@ -1,0 +1,5 @@
+simple encryption on single word using             -               mod 2 theory........
+
+
+and file generation of encrypted data
+here constant is defined that can be used any one but best one will be to  use  deffie hellman protocol

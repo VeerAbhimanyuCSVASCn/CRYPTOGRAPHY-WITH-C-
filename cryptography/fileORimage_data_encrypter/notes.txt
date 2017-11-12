@@ -1,0 +1,1 @@
+IF YOU HAVE EVER SEEN THAT images opend in txt mode contails unrelated data (data which is numerically not related to any thing) in a very huge amount.................this data can be encrypted into a file and only file is sent not the image.....................    now if the other user knows the image's url he can save the image and use this function agail to reverse the code.

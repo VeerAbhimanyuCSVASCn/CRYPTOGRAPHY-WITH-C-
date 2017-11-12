@@ -1,0 +1,4 @@
+strong cryptography  needs a random numbers that can be used to encode the data 
+so here main file stream.cpp provides all these functionalities  to encrypt data as per random numbers generated 
+
+ pseudoPRNG.cpp  is a random number generating funtion in a pseudo manner

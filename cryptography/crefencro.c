@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<dos.h>
+#include<time.h>
+#include<math.h>
+#include<ctype.h>
+#include<string.h>
+#include<signal.h>
+#include<limits.h>

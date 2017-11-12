@@ -1,0 +1,6 @@
+vignere.cpp
+	contains a scheme of funtions tha deals with encrypting the data by cotiniously generating the key from the text obtained previously
+
+vignere_dec.cpp
+	
+	it decrypts the data by continiously regenerating the  keyfrom the previous data

@@ -1,0 +1,9 @@
+DSA
+
+the programme is running successfuly
+its main file is encryptiago.cpp
+
+num_th.cpp is a file which contains all the needed modular arithmetic and the structures needed for its implementation
+
+there is also a file called validkey_checker.cpp
+	whose purpose is check whether the E that's going to be used is valid or not manually programmer is needed to use this section of library to check it out
