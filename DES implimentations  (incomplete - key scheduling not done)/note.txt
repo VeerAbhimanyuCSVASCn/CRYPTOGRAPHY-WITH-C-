@@ -1,0 +1,10 @@
+DES algorithm   : -  (key scheduling yet not completed that's why all three main files are yet not arranged)
+
+feistel_encrypt.cpp will be the main file on whose structure the 2's modulus will be implemented it is in working mode and
+ the code and the heart of the programme  s-box (present in 111.cpp) is also successfullly working  
+
+
+last part of the programme is to be done called..................... key scheduling  and then it can be arranged for successful encryption
+
+
+the same schemes of codes can be later used for triple DES

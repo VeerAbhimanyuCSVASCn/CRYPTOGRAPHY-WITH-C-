@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1506618849 source:c:\users\abhimanyu\documents\encryptiago\crefencro.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<signal.h>
+	<limits.h>
+
+1506618891 source:c:\users\abhimanyu\documents\encryptiago\binco.c
+	"crefencro.c"
+
+1506618849 c:\users\abhimanyu\documents\encryptiago\crefencro.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<signal.h>
+	<limits.h>
+
+1506618811 source:c:\users\abhimanyu\documents\encryptiago\cpprefencro.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<map>
+	<stack>
+	<queue>
+	<thread>
+	<deque>
+	<string>
+
+1506618966 source:c:\users\abhimanyu\documents\encryptiago\timencro.cpp
+	"crefencro.c"
+	"cpprefencro.cpp"
+
+1506618811 c:\users\abhimanyu\documents\encryptiago\cpprefencro.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<map>
+	<stack>
+	<queue>
+	<thread>
+	<deque>
+	<string>
+
+1506622373 source:c:\users\abhimanyu\documents\encryptiago\fileencro.cpp
+	"crefencro.c"
+	"cpprefencro.cpp"
+	"struc.c"
+
+1506621550 c:\users\abhimanyu\documents\encryptiago\struc.c
+
+1506621550 source:c:\users\abhimanyu\documents\encryptiago\struc.c
+
